@@ -1,3 +1,4 @@
+ccflags-y := -Wno-error=incompatible-pointer-types
 EXTRA_CFLAGS += $(USER_EXTRA_CFLAGS) -fno-pie
 EXTRA_CFLAGS += -O1
 EXTRA_CFLAGS += -Wno-unused-variable
