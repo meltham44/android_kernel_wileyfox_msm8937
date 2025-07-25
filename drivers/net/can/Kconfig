@@ -155,8 +155,6 @@ source "drivers/net/can/softing/Kconfig"
 
 source "drivers/net/can/usb-can-2-module/Kconfig"
 
-source "drivers/net/can/can-isotp/Kconfig"
-
 source "drivers/net/can/elmcan/Kconfig"
 
 endif
