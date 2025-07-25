@@ -13,7 +13,6 @@ can-dev-$(CONFIG_CAN_LEDS)	+= led.o
 obj-y				+= spi/
 obj-y				+= usb/
 obj-y				+= softing/
-obj-y				+= usb-can-2-module/
 obj-y				+= elmcan/
 
 obj-$(CONFIG_CAN_SJA1000)	+= sja1000/

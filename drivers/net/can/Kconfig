@@ -153,8 +153,6 @@ source "drivers/net/can/usb/Kconfig"
 
 source "drivers/net/can/softing/Kconfig"
 
-source "drivers/net/can/usb-can-2-module/Kconfig"
-
 source "drivers/net/can/elmcan/Kconfig"
 
 endif
